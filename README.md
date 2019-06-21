@@ -102,4 +102,4 @@ Testing plays crucial role in software development life cycle now a days. I knew
 
 - Download the zip file.
 - Extract the downloaded zip file and run the `index.html` file by using the browser.
-- You can view the output.
+- You can view the output from the browser.
