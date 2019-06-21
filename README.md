@@ -73,7 +73,7 @@ ________________________________________
 
 # Feed Reader Testing with Jasmine framework
 
-Testing plays crucial role in software development life cycle now a days. I knew the designing and coding part. But I dint know the testing part. While I was working for this project, I learned how to test. Jasmine framework really helped me to develop the unit testing strategy by test suites.
+Testing plays crucial role in software development life cycle(SDLC) now a days. I knew the designing and coding part. But I dint know the testing part. While I was working for this project, I learned how to test. Jasmine framework really helped me to develop the unit testing strategy by test suites.
 
 ## I followed the below steps to develop this application
 
